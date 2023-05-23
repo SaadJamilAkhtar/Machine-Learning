@@ -6,7 +6,6 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 from matplotlib import style
 import math
-import pickle
 
 
 def get_classifier_prediction(clf, data):
